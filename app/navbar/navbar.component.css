@@ -1,0 +1,19 @@
+nav {
+    padding:1rem;
+    background-color:#311B92;
+    border-radius:0;
+    box-shadow:0 2px 5px 0 rgba(0,0,0,.24);
+}
+
+#nav-dropdown{
+    color:#fff;
+}
+
+.dropdown-menu{
+    border-radius:0;
+}
+
+.nav-link{
+    margin-top:1.2rem;
+    font-size: .8rem;
+}
